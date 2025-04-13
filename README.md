@@ -26,6 +26,7 @@ To run this project in Wampp server we need to move this repository in the C://w
 For Linux
 
 apt install apache2 //for debian and ubantu based only
+
 To run this project in apache server we need to move this repository in the var/www/
 
 
