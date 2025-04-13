@@ -13,13 +13,14 @@ To run this project in Xampp server we need to move this repository in the C://x
 
 Use Wampp server
 https://sourceforge.net/projects/wampserver/
-To run this project in Xampp server we need to move this repository in the C://wampp/htdocs/
+To run this project in Wampp server we need to move this repository in the C://wampp/htdocs/
 
 
 
 For Linux
 
 apt install apache2 //for debian and ubantu based only
+To run this project in apache server we need to move this repository in the var/www/
 
 
 
