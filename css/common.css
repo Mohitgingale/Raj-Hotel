@@ -1,0 +1,30 @@
+/* .root{
+  --teal:#2ec1ac;
+  --teal_hover:#995de3;
+} */
+.h-font{
+    font-family: "Merienda", cursive;
+    
+    }
+    /* Chrome, Safari, Edge, Opera */
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+    .custum-bg{
+      background-color:#2ec1ac;
+      border: 1px solid  #995de3;
+    }
+    .custum-bg:hover{
+      background-color:#2ec1ac;
+      border:1px solid #995de3;
+    }
+    /* Firefox */
+        /*class="col-md-12 p-0 mb-3"*/
+
+.h-line{
+  width: 150px;
+  margin: 0 auto;
+  height: 1.7px;
+}
