@@ -3,6 +3,11 @@ This is the hotel booking website Created By Mohit Govind Ingale
 
 This site is only the frontend of the hotel booking site 
 
+Something About Project
+I am make this website using The Html CSS Javascript and Boostrap 
+This Website Contains the Animations to all pages that needed to create the 
+
+
 How to Run this Project
 For Windows 
 
